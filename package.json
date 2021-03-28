@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/SilverC0de/NF#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.0.0"
+    "@openzeppelin/contracts": "3.4.0"
   }
 }
